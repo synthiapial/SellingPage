@@ -1,0 +1,19 @@
+body{
+    padding-top: 20px;
+}
+
+.nav-justified{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.nav-justified > li >a{
+    padding: 15px 0;
+    text-align: center;
+    color: darkcyan;
+    background-color: #e5e5e5;
+}
+.green{
+    color: darkcyan;
+}
