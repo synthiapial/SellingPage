@@ -1,6 +1,6 @@
 body{
     padding-top: 20px;
-    background-color: lightsteelblue;
+    background-color: white;
 }
 
 .nav-justified{
@@ -13,15 +13,15 @@ body{
 .nav-justified > li >a{
     padding: 15px 0;
     text-align: center;
-    color: darkcyan;
-    background-color: pink;
+    color: black;
+    background-color: lightsteelblue;
 }
 .green{
     color: darkcyan;
 }
 .jumbotron{
     text-align: center;
-    background-color: lightsteelblue;
+    background-color: white;
 }
 
 .text-muted{
